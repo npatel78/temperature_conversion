@@ -1,0 +1,31 @@
+/* style.css */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fafafa;
+}
+
+th a:link, th a:visited, th a:hover, th a:active {
+    color: #ffffff;
+}
+
+.navbarFooter-background-color {
+    background-color: #808a43;
+}
+
+.background-color {
+    background-color: #e0e0e0;
+}
+
+.background-imgLocal {
+    background: url(../img/thermometer.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.pc {
+    background-color: #e0e0e0;
+    ;
+}
